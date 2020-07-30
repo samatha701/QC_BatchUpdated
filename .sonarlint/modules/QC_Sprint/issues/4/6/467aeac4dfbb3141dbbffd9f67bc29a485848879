@@ -1,0 +1,29 @@
+
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+nsquid:CommentedOutCodeLineZ"<This block of commented-out lines of code should be removed.(ìÉ›ÿÿÿÿÿ8üÏØ”Ž.
+Dsquid:S1172"-Remove this unused method parameter "AppURL".(áÝ—Â
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÝ—Â
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÝ—Â
+p
+squid:S134|"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ8œ‘¯–Ž.
+nsquid:S00117c"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ôÃ§
+gsquid:CommentedOutCodeLinei"<This block of commented-out lines of code should be removed.(ï¶Åòýÿÿÿÿ
+nsquid:CommentedOutCodeLinet"<This block of commented-out lines of code should be removed.(ÚžàŠþÿÿÿÿ8Ó×ù”Ž.
+q
+squid:S134’"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ8êŠâŒ¶.
+nsquid:CommentedOutCodeLinep"<This block of commented-out lines of code should be removed.(—¬ôûÿÿÿÿ8¶ÂÞ”Ž.
+Isquid:S1166"%Either log or rethrow this exception.(ýô…÷ÿÿÿÿÿ8çò·–Ž.
+Isquid:S1166–"%Either log or rethrow this exception.(ýô…÷ÿÿÿÿÿ8êŠâŒ¶.
+osquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(¹á±´øÿÿÿÿ8ºÿäž«.
+nsquid:CommentedOutCodeLineb"<This block of commented-out lines of code should be removed.(¿Øû¥øÿÿÿÿ8üÏØ”Ž.
+›squid:S1160"}Refactor this method to throw at most one checked exception instead of: java.lang.InterruptedException, java.awt.AWTException(áÝ—Â8ÿ‚ŸëŽ.
+qsquid:S1192z"NDefine a constant instead of duplicating this literal "finishdeposit" 3 times.(Á¥˜Ìÿÿÿÿÿ8êŠâŒ¶.
+q
+squid:S134ˆ"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ8çò·–Ž.
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âÐ¬
+tsquid:S00117 "VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡—‚>8ñ•§”Ž.
+isquid:CommentedOutCodeLine\"<This block of commented-out lines of code should be removed.(˜Û´‰8üÏØ”Ž.
+nsquid:CommentedOutCodeLiner"<This block of commented-out lines of code should be removed.(‚ÉÅ‡ùÿÿÿÿ8³€ˆ•Ž.
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(áÝ—Â8êŠâŒ¶.
+Dsquid:S1166‚"%Either log or rethrow this exception.(Ñµé‘8œ‘¯–Ž.
+Rsquid:EmptyStatementUsageCheck-"Remove this empty statement.(ö©²×úÿÿÿÿ8Æ¤ƒ¶.

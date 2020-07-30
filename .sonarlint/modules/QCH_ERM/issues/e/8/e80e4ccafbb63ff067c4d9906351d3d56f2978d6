@@ -1,0 +1,23 @@
+
+Hsquid:S1166S"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ8áƒë†¹.
+vsquid:S1132Y"ZMove the "No records returned." string literal on the left side of this string comparison.(óÙ‚Íşÿÿÿÿ
+usquid:S11920"WDefine a constant instead of duplicating this literal "Click on submit button" 3 times.(®ÅìÚ8áƒë†¹.
+Q
+squid:S106W";Replace this usage of System.out or System.err by a logger.(ÈÔ²ê
+i
+squid:S134Y"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(óÙ‚Íşÿÿÿÿ
+Csquid:S1172"-Remove this unused method parameter "AppURL".(ÈĞt
+msquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈĞt
+p
+squid:S134F"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ8áƒë†¹.
+ssquid:S00117V"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÏ©†øÿÿÿÿ
+osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÈĞt8áƒë†¹.
+msquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈĞt
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.( Íû¯øÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Ùìàûÿÿÿÿ
+Msquid:S00108S")Either remove or fill this block of code.(ñ“Š±üÿÿÿÿ8áƒë†¹.
+ssquid:S001174"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò‹ª÷üÿÿÿÿ
+tsquid:S1192;"VDefine a constant instead of duplicating this literal "dispRepresentmentType" 4 times.(›¿““8áƒë†¹.
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÿÀŸìûÿÿÿÿ
+hsquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(€Â¦X8÷óˆ¹.

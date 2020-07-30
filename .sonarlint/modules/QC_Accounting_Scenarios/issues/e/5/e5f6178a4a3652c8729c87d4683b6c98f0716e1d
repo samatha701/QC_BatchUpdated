@@ -1,0 +1,456 @@
+
+gsquid:S1132Ä"JMove the "Cash" string literal on the left side of this string comparison.(Ü»ıÿÿÿÿ
+tsquid:S1192¨"\Define a constant instead of duplicating this literal "//*[@id='cardsList']/select" 4 times.(‰¯Ÿı
+gsquid:S1132"JMove the "Cash" string literal on the left side of this string comparison.(º‡—¿ùÿÿÿÿ
+gsquid:S1132Â
+"JMove the "Mail" string literal on the left side of this string comparison.(ÑÓõ«ûÿÿÿÿ
+†"squid:ClassVariableVisibilityCheck9"XMake last4cheknum a static final constant or non-public and provide accessors if needed.(İÂÊ
+"squid:ClassVariableVisibilityCheckI"ZMake AppraisalValue a static final constant or non-public and provide accessors if needed.(æ¹ú–øÿÿÿÿ
+hsquid:S30081"QRename this field "NewVIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãäÜ
+‚"squid:ClassVariableVisibilityCheckD"TMake PhoneNbr a static final constant or non-public and provide accessors if needed.( ¤Ø•
+…"squid:ClassVariableVisibilityCheckU"WMake cardEx_Year a static final constant or non-public and provide accessors if needed.(›½œš
+9squid:S2386:"Make this member "protected".(¬Öš“üÿÿÿÿ
+ssquid:S1192½"[Define a constant instead of duplicating this literal "//*[@id='preferenceMail']" 10 times.(Ã±Å
+{squid:S1192Ø"^Define a constant instead of duplicating this literal "Promotion button is clicked " 10 times.(ÃÆÌ·ıÿÿÿÿ
+qsquid:S1192´"TDefine a constant instead of duplicating this literal "Enterd Expiry year " 4 times.(×Çƒıÿÿÿÿ
+squid:S1192²"gDefine a constant instead of duplicating this literal "requestBean.siilBean.courtesyCallFlag" 10 times.(Ø‹­Ï
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥ÿäj
+Ksquid:S1444A"/Make this "public static PhoneNbr3" field final(›˜ò™ıÿÿÿÿ
+nsquid:S3008Q"WRename this field "No_of_checks" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÅØ”
+Gsquid:S1444"+Make this "public static State" field final(¿Î‚Ïùÿÿÿÿ
+gsquid:S1132Ç"JMove the "Mail" string literal on the left side of this string comparison.(ÑÓõ«ûÿÿÿÿ
+jsquid:CommentedOutCodeLineØ"<This block of commented-out lines of code should be removed.(İıª©8‰¥êÕ¹.
+gsquid:S1132İ"JMove the "Mail" string literal on the left side of this string comparison.(ÑÓõ«ûÿÿÿÿ
+Isquid:S1444Q"2Make this "public static No_of_checks" field final(ßÅØ”
+e
+squid:S134®	"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Üì¸ü
+=squid:S1166×"%Either log or rethrow this exception.(¬Ù¨Í
+ssquid:S1192­"[Define a constant instead of duplicating this literal "Disb Type is enterted as " 10 times.(“Å·Š
+jsquid:S3776ö	"RRefactor this method to reduce its Cognitive Complexity from 57 to the 15 allowed.(ÃáÆõ
+"squid:ClassVariableVisibilityCheckF"[Make LicensePlateExp a static final constant or non-public and provide accessors if needed.(ƒ¼ÙÓûÿÿÿÿ
+lsquid:S3008Y"PRename this field "Miles" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â‚²ÿÿÿÿÿ
+Osquid:UselessImportCheck"+Remove this unused import 'java.util.Date'.(¸…¼ü
+"squid:ClassVariableVisibilityCheck="`Make InsuranceExpiryDate1 a static final constant or non-public and provide accessors if needed.(²„øó
+gsquid:S1132™"JMove the "Mail" string literal on the left side of this string comparison.(ÑÓõ«ûÿÿÿÿ
+› squid:MethodCyclomaticComplexityö	"nThe Cyclomatic Complexity of this method "ILP_DEBITCARD_Collateral" is 17 which is greater than 10 authorized.(ÃáÆõ
+€squid:S1192¯"cDefine a constant instead of duplicating this literal "requestBean.siilBean.disbAmtFirst" 10 times.(ùĞŠìúÿÿÿÿ
+‡"squid:ClassVariableVisibilityCheck6"TMake Password a static final constant or non-public and provide accessors if needed.(œúÌÿÿÿÿÿ
+fsquid:S1132Ì"IMove the "SMS" string literal on the left side of this string comparison.(í×£øÿÿÿÿ
+msquid:S30083"WRename this field "NewLoan_Term" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ‹¬l
+†"squid:ClassVariableVisibilityCheckQ"XMake No_of_checks a static final constant or non-public and provide accessors if needed.(ßÅØ”
+Esquid:S14447".Make this "public static UserName" field final(­ßğÄ
+Psquid:S1444\"4Make this "public static CC_Issuer_Name" field final(Æ¬ÿÜûÿÿÿÿ
+j
+squid:S134Ê"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ãòªÿÿÿÿÿ
+xsquid:S1192¸"[Define a constant instead of duplicating this literal "//*[@id='preferenceCall']" 10 times.(á˜Èµıÿÿÿÿ
+}squid:S1192é"eDefine a constant instead of duplicating this literal "Promotion radio button is selected " 10 times.(ÃÉš
+=squid:S1166’"%Either log or rethrow this exception.(”ı¾
+Fsquid:S1444L"*Make this "public static rnum" field final(ú‚Ç©øÿÿÿÿ
+"squid:ClassVariableVisibilityCheck\"ZMake CC_Issuer_Name a static final constant or non-public and provide accessors if needed.(Æ¬ÿÜûÿÿÿÿ
+msquid:S3008U"VRename this field "cardEx_Year" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›½œš
+isquid:S1192·"LDefine a constant instead of duplicating this literal "Enterd CVV " 4 times.(ĞõãŸüÿÿÿÿ
+gsquid:S1132¶"JMove the "Call" string literal on the left side of this string comparison.(ãòªÿÿÿÿÿ
+Qsquid:S1444F"5Make this "public static LicensePlateExp" field final(ƒ¼ÙÓûÿÿÿÿ
+o
+squid:S135a"YReduce the total number of break and continue statements in this loop to use at most one.(ø‘ 
+e
+squid:S134•"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Üì¸ü
+Nsquid:S1444G"8Make this "public static LicensePlateNumber" field final(ç‹g
+"squid:ClassVariableVisibilityCheck0"SMake StoreID a static final constant or non-public and provide accessors if needed.(ƒ™Á
+j
+squid:S134¿"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(äŞÆÿÿÿÿÿ
+osquid:S1192¸"RDefine a constant instead of duplicating this literal "//*[@id='ccname']" 4 times.(”’ª­ıÿÿÿÿ
+asquid:S1132Ñ"IMove the "Yes" string literal on the left side of this string comparison.(ƒ¶Ñ¨
+Dsquid:S14440"-Make this "public static StoreID" field final(ƒ™Á
+j
+squid:S134Ô"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(í×£øÿÿÿÿ
+Fsquid:S1444["/Make this "public static relamount" field final(í„ª
+„squid:S1192³"gDefine a constant instead of duplicating this literal "Courtesy Call Consent is selected as " 40 times.(«–Òúÿÿÿÿ
+j
+squid:S134Ì"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(í×£øÿÿÿÿ
+gsquid:S1132Ã"JMove the "Mail" string literal on the left side of this string comparison.(­ûÙóùÿÿÿÿ
+asquid:S1132ê"IMove the "ILP" string literal on the left side of this string comparison.(Ò²¿Ä
+jsquid:S3008X"NRename this field "VIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àù›…úÿÿÿÿ
+Rsquid:S1444."6Make this "public static stateProductType" field final(©†¯­ûÿÿÿÿ
+ksquid:S3008!"ORename this field "SSN3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ÓÀŠúÿÿÿÿ
+"squid:ClassVariableVisibilityCheck."\Make stateProductType a static final constant or non-public and provide accessors if needed.(©†¯­ûÿÿÿÿ
+asquid:S1132‹"IMove the "Yes" string literal on the left side of this string comparison.(ËÆêÎ
+ssquid:S3008>"WRename this field "PolicyNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€–×ôøÿÿÿÿ
+asquid:S1132È"IMove the "Yes" string literal on the left side of this string comparison.(ËÆêÎ
+ssquid:S00117_"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÔ€ñşÿÿÿÿ
+Psquid:S14444"9Make this "public static NewLoan_ProductName" field final(ÍÎ·«
+…"squid:ClassVariableVisibilityCheck3"XMake NewLoan_Term a static final constant or non-public and provide accessors if needed.(ƒ‹¬l
+ksquid:S3008B"TRename this field "PhoneNbr2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦©Ô…
+osquid:S00117Ü"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëúË€
+gsquid:S1132§"JMove the "Mail" string literal on the left side of this string comparison.(ÑÓõ«ûÿÿÿÿ
+bsquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(òİşü
+vsquid:S3008;"_Rename this field "InsuranceExpiryDate3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒğŸÚ
+rsquid:S3008)"[Rename this field "ESign_Preference" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À¨›Ä
+[squid:UselessImportCheck"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ
+„"squid:ClassVariableVisibilityCheckY"QMake Miles a static final constant or non-public and provide accessors if needed.(â‚²ÿÿÿÿÿ
+=squid:S1166Ë"%Either log or rethrow this exception.(¬Ù¨Í
+hsquid:S1192º"KDefine a constant instead of duplicating this literal "mainFrame" 21 times.(ËøÇªıÿÿÿÿ
+j
+squid:S134¾"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ãòªÿÿÿÿÿ
+squid:S1192"bDefine a constant instead of duplicating this literal "requestBean.siilBean.isCustCheck1" 6 times.(şÚºùÿÿÿÿ
+asquid:S1132´"IMove the "Yes" string literal on the left side of this string comparison.(ËÆêÎ
+nsquid:UselessImportCheck"JRemove this unused import 'com.relevantcodes.extentreports.ExtentReports'.(èşÛÑ
+vsquid:S3008<"_Rename this field "InsuranceExpiryDate2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£‡‰”
+j
+squid:S134İ"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(äŞÆÿÿÿÿÿ
+Œ"squid:ClassVariableVisibilityCheck,"YMake ESign_LoanAmt a static final constant or non-public and provide accessors if needed.(±Ûøÿÿÿÿ
+csquid:S1132­"KMove the "Check" string literal on the left side of this string comparison.(Ø£¨»
+`squid:S1132¤	"IMove the "Yes" string literal on the left side of this string comparison.(ë¾Û'
+‹"squid:ClassVariableVisibilityCheck>"XMake PolicyNumber a static final constant or non-public and provide accessors if needed.(€–×ôøÿÿÿÿ
+msquid:S1192"UDefine a constant instead of duplicating this literal "requestBean.password" 6 times.(ê‚Åİ
+Nsquid:S1444N"2Make this "public static product_name" field final(§Â®øÿÿÿÿ
+fsquid:S3008"ORename this field "SSN1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úØÍ¿
+Bsquid:S00108Š")Either remove or fill this block of code.(”ı¾
+Qsquid:S1444<":Make this "public static InsuranceExpiryDate2" field final(£‡‰”
+e
+squid:S134ı"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Üì¸ü
+=squid:S1166î"%Either log or rethrow this exception.(”ı¾
+Hsquid:S1444U"1Make this "public static cardEx_Year" field final(›½œš
+jsquid:S3008D"SRename this field "PhoneNbr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ¤Ø•
+Bsquid:S00108â")Either remove or fill this block of code.(”ı¾
+osquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëúË€
+Vsquid:S1444*"?Make this "public static ESign_CourtesyCallConsent" field final(ŞÄÀœ
+fsquid:S1132Ô"IMove the "SMS" string literal on the left side of this string comparison.(í×£øÿÿÿÿ
+nsquid:S00117j"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+ksquid:S1192«"TDefine a constant instead of duplicating this literal "//*[@id='ccnumber']" 4 times.(ÛÿşY
+hsquid:S1132—"PMove the "Debit Card" string literal on the left side of this string comparison.(©»Ç™
+Psquid:S1444J"9Make this "public static InsuranceExpiryDate" field final(ë–´è
+Psquid:S1444+"4Make this "public static ESign_DisbType" field final(‡Àôúÿÿÿÿ
+xsquid:S1192›"`Define a constant instead of duplicating this literal "Collateral Type is enterted as " 6 times.(¿ğú¼
+csquid:CommentedOutCodeLine§
+"<This block of commented-out lines of code should be removed.(ÍÏ˜Æ
+j
+squid:S134Ô
+"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+Usquid:UselessImportCheck"1Remove this unused import 'java.text.DateFormat'.(÷Œá¼
+ˆ"squid:ClassVariableVisibilityCheckA"UMake PhoneNbr3 a static final constant or non-public and provide accessors if needed.(›˜ò™ıÿÿÿÿ
+hsquid:S1192ü"PDefine a constant instead of duplicating this literal "Alert accepted" 10 times.(ğ¢û•
+“"squid:ClassVariableVisibilityCheck*"eMake ESign_CourtesyCallConsent a static final constant or non-public and provide accessors if needed.(ŞÄÀœ
+xsquid:S3008E"\Rename this field "InsuranceCoverage" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹·¢¿úÿÿÿÿ
+asquid:S1132 "IMove the "Yes" string literal on the left side of this string comparison.(ËÆêÎ
+fsquid:S1132ç"IMove the "SMS" string literal on the left side of this string comparison.(í×£øÿÿÿÿ
+bsquid:S1132±"JMove the "Cash" string literal on the left side of this string comparison.(¾¥£
+d
+squid:S134k"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(µş–
+Jsquid:S14446".Make this "public static Password" field final(œúÌÿÿÿÿÿ
+osquid:S00104"_This file has 1,760 lines, which is greater than 1,000 authorized. Split it into smaller files.
+Esquid:S1444D".Make this "public static PhoneNbr" field final( ¤Ø•
+hsquid:CommentedOutCodeLineè"<This block of commented-out lines of code should be removed.(½¯İ¼øÿÿÿÿ
+=squid:S1166Ó"%Either log or rethrow this exception.(¬Ù¨Í
+‹"squid:ClassVariableVisibilityCheckZ"XMake VehicleGrade a static final constant or non-public and provide accessors if needed.(•ÁÄ÷üÿÿÿÿ
+asquid:S1132İ"IMove the "Yes" string literal on the left side of this string comparison.(ƒ¶Ñ¨
+‹"squid:ClassVariableVisibilityCheck/"XMake stateProduct a static final constant or non-public and provide accessors if needed.(²™Š—ÿÿÿÿÿ
+j
+squid:S134¢"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ãòªÿÿÿÿÿ
+`squid:S1132À"IMove the "Yes" string literal on the left side of this string comparison.(ë¾Û'
+†"squid:ClassVariableVisibilityCheckT"XMake cardEx_month a static final constant or non-public and provide accessors if needed.(•’ŒÉ
+Ksquid:S1444&"/Make this "public static CouponNbr" field final(µôÒ¢ùÿÿÿÿ
+gsquid:S1132©"JMove the "Cash" string literal on the left side of this string comparison.(º‡—¿ùÿÿÿÿ
+usquid:S3008J"^Rename this field "InsuranceExpiryDate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë–´è
+j
+squid:S134§"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ÑÓõ«ûÿÿÿÿ
+rsquid:S3008K"VRename this field "TitleNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Š®Œûÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck!"PMake SSN3 a static final constant or non-public and provide accessors if needed.(®ÓÀŠúÿÿÿÿ
+lsquid:S00100¾"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¶ë–øÿÿÿÿ
+^squid:S1192˜"FDefine a constant instead of duplicating this literal "value" 3 times.(¾šñ“
+hsquid:CommentedOutCodeLine²"<This block of commented-out lines of code should be removed.(·½üªúÿÿÿÿ
+Lsquid:S1444S"0Make this "public static cardNumber" field final(›Æ‚½ûÿÿÿÿ
+asquid:S1192¨"IDefine a constant instead of duplicating this literal "NEW CARD" 8 times.(‰¯Ÿı
+osquid:S00117¨	"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëúË€
+~"squid:ClassVariableVisibilityCheckP"PMake rows a static final constant or non-public and provide accessors if needed.(óŠÖ
+asquid:S1132Ú"IMove the "Yes" string literal on the left side of this string comparison.(ƒ¶Ñ¨
+gsquid:S1132¾"JMove the "Call" string literal on the left side of this string comparison.(ãòªÿÿÿÿÿ
+usquid:S30084"^Rename this field "NewLoan_ProductName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÎ·«
+^squid:UselessImportCheck":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™ş
+}"squid:ClassVariableVisibilityCheck "PMake SSN2 a static final constant or non-public and provide accessors if needed.(é’¡
+"squid:ClassVariableVisibilityCheck4"_Make NewLoan_ProductName a static final constant or non-public and provide accessors if needed.(ÍÎ·«
+Ssquid:S1444E"7Make this "public static InsuranceCoverage" field final(¹·¢¿úÿÿÿÿ
+Hsquid:S14442"1Make this "public static VehicleType" field final(Ûıõô
+usquid:S3008I"YRename this field "AppraisalValue" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ¹ú–øÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck["UMake relamount a static final constant or non-public and provide accessors if needed.(í„ª
+Osquid:S1444,"3Make this "public static ESign_LoanAmt" field final(±Ûøÿÿÿÿ
+jsquid:S30087"SRename this field "UserName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ßğÄ
+Isquid:S1444T"2Make this "public static cardEx_month" field final(•’ŒÉ
+j
+squid:S134é"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(äŞÆÿÿÿÿÿ
+osquid:S00117Ø"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°’ğå
+‚"squid:ClassVariableVisibilityCheckX"OMake VIN a static final constant or non-public and provide accessors if needed.(àù›…úÿÿÿÿ
+fsquid:S1132£"IMove the "SMS" string literal on the left side of this string comparison.(í×£øÿÿÿÿ
+psquid:S3008A"TRename this field "PhoneNbr3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›˜ò™ıÿÿÿÿ
+usquid:S3008("YRename this field "AllowPromotion" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨è©ùÿÿÿÿ
+tsquid:S3008H"XRename this field "ExteriorColor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÄÇÒşÿÿÿÿ
+`squid:S1132‹"IMove the "Yes" string literal on the left side of this string comparison.(ë¾Û'
+lsquid:S1192°"TDefine a constant instead of duplicating this literal "//*[@id='expmonth']" 4 times.(øÇ‡¯
+Qsquid:S1444;":Make this "public static InsuranceExpiryDate3" field final(ŒğŸÚ
+osquid:S30086"SRename this field "Password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œúÌÿÿÿÿÿ
+‚"squid:ClassVariableVisibilityCheck7"TMake UserName a static final constant or non-public and provide accessors if needed.(­ßğÄ
+asquid:S1132Õ"IMove the "Yes" string literal on the left side of this string comparison.(ËÆêÎ
+Ssquid:UselessImportCheck"/Remove this unused import 'java.util.Calendar'.(ÿÛö´
+gsquid:S1132Ï"JMove the "Mail" string literal on the left side of this string comparison.(ÑÓõ«ûÿÿÿÿ
+†"squid:ClassVariableVisibilityCheck%"XMake ESign_Checks a static final constant or non-public and provide accessors if needed.(„ëú¯
+ksquid:UselessImportCheck"GRemove this unused import 'com.relevantcodes.extentreports.ExtentTest'.(ŞÁİÌ
+lsquid:S3008"PRename this field "State" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Î‚Ïùÿÿÿÿ
+usquid:S1192’"]Define a constant instead of duplicating this literal "click on Finish Loan button " 5 times.(‹Êäó
+osquid:S00117¶"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëúË€
+csquid:S1132¥"KMove the "Check" string literal on the left side of this string comparison.(ÑÔ®
+Bsquid:S1166·"%Either log or rethrow this exception.(šıš´ıÿÿÿÿ
+"squid:ClassVariableVisibilityCheck#"ZMake ESign_CheckNbr a static final constant or non-public and provide accessors if needed.(æ°­¹ıÿÿÿÿ
+`squid:S1132ó"IMove the "Yes" string literal on the left side of this string comparison.(ë¾Û'
+Msquid:S1444)"6Make this "public static ESign_Preference" field final(À¨›Ä
+Š"squid:ClassVariableVisibilityCheck@"\Make InsuranceCompany a static final constant or non-public and provide accessors if needed.(ğ÷‘ˆ
+Psquid:S1444#"4Make this "public static ESign_CheckNbr" field final(æ°­¹ıÿÿÿÿ
+zsquid:S1192ç"bDefine a constant instead of duplicating this literal "csr_new_loan_promotion_radio_btn" 10 times.(²“´î
+tsquid:S00117×"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Áİ‘şÿÿÿÿ
+Gsquid:S1444Y"+Make this "public static Miles" field final(â‚²ÿÿÿÿÿ
+tsquid:S1192í"WDefine a constant instead of duplicating this literal "OK button is clicked " 10 times.(İãä–ùÿÿÿÿ
+wsquid:S1192¬"_Define a constant instead of duplicating this literal "requestBean.siilBean.disbType" 10 times.(Œû‚à
+osquid:S00117ì
+"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëúË€
+isquid:S30080"RRename this field "StoreID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ™Á
+Nsquid:S1444Z"2Make this "public static VehicleGrade" field final(•ÁÄ÷üÿÿÿÿ
+csquid:S1132í"KMove the "Check" string literal on the left side of this string comparison.(ÑÔ®
+Psquid:S1444I"4Make this "public static AppraisalValue" field final(æ¹ú–øÿÿÿÿ
+Osquid:S1444H"3Make this "public static ExteriorColor" field final(ªÄÇÒşÿÿÿÿ
+‹"squid:ClassVariableVisibilityCheckN"XMake product_name a static final constant or non-public and provide accessors if needed.(§Â®øÿÿÿÿ
+j
+squid:S134Ç"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ÑÓõ«ûÿÿÿÿ
+osquid:S00117Õ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ‡—
+fsquid:S1132¬"IMove the "SMS" string literal on the left side of this string comparison.(í×£øÿÿÿÿ
+gsquid:S00100ö	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃáÆõ
+Psquid:S1444("4Make this "public static AllowPromotion" field final(¨è©ùÿÿÿÿ
+Osquid:S1135û"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+nsquid:S3776_"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ºÔ€ñşÿÿÿÿ
+csquid:S1132±"KMove the "check" string literal on the left side of this string comparison.(¾¥£
+Hsquid:S14443"2Make this "public static NewLoan_Term" field final(ƒ‹¬l
+fsquid:S1132–"IMove the "ACH" string literal on the left side of this string comparison.(Ú‘Ğîøÿÿÿÿ
+gsquid:S1132ã"JMove the "Mail" string literal on the left side of this string comparison.(­ûÙóùÿÿÿÿ
+hsquid:CommentedOutCodeLine‘"<This block of commented-out lines of code should be removed.(ÈÔ…Ûûÿÿÿÿ
+msquid:S1192¶"UDefine a constant instead of duplicating this literal "//*[@id='cvvnumber']" 4 times.(¨Ú…³
+Bsquid:S00108Š")Either remove or fill this block of code.(”ı¾
+‚"squid:ClassVariableVisibilityCheckV"OMake cvv a static final constant or non-public and provide accessors if needed.(Ò´À”øÿÿÿÿ
+"squid:ClassVariableVisibilityCheck;"`Make InsuranceExpiryDate3 a static final constant or non-public and provide accessors if needed.(ŒğŸÚ
+hsquid:S1132Ä"KMove the "Check" string literal on the left side of this string comparison.(Ü»ıÿÿÿÿ
+~"squid:ClassVariableVisibilityCheckM"PMake cnum a static final constant or non-public and provide accessors if needed.(Å­Á–
+|squid:S1192„"_Define a constant instead of duplicating this literal "requestBean.siilBean.checkAmt1" 6 times.(åóºµÿÿÿÿÿ
+ssquid:S3008G"]Rename this field "LicensePlateNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç‹g
+`squid:S1132é
+"IMove the "Yes" string literal on the left side of this string comparison.(ë¾Û'
+Bsquid:S1444O"+Make this "public static count" field final(ëª™Š
+=squid:S1166–"%Either log or rethrow this exception.(”ı¾
+psquid:S3008C"TRename this field "PhoneNbr1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éõçßúÿÿÿÿ
+nsquid:S3008T"WRename this field "cardEx_month" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•’ŒÉ
+fsquid:S1132À"IMove the "SMS" string literal on the left side of this string comparison.(í×£øÿÿÿÿ
+fsquid:S1132í"IMove the "SMS" string literal on the left side of this string comparison.( üÜ†úÿÿÿÿ
+Esquid:S1444X")Make this "public static VIN" field final(àù›…úÿÿÿÿ
+ysquid:S1192†"\Define a constant instead of duplicating this literal "Vehicle Key selected as NO " 5 times.(ã›˜ıÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheckB"UMake PhoneNbr2 a static final constant or non-public and provide accessors if needed.(¦©Ô…
+wsquid:UselessImportCheck"NRemove this unused import 'org.openqa.selenium.support.ui.ExpectedConditions'.(û€Èéúÿÿÿÿ
+lsquid:S1192‚"TDefine a constant instead of duplicating this literal "check box selected " 6 times.(ÍÕƒ
+Š"squid:ClassVariableVisibilityCheck)"\Make ESign_Preference a static final constant or non-public and provide accessors if needed.(À¨›Ä
+ysquid:S1192®"\Define a constant instead of duplicating this literal "//*[@id='cardType2']/select" 4 times.(ÜËúÿÿÿÿ
+‹"squid:ClassVariableVisibilityCheckG"^Make LicensePlateNumber a static final constant or non-public and provide accessors if needed.(ç‹g
+osquid:S00117Ù"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éîù·
+‹ squid:MethodCyclomaticComplexity"YThe Cyclomatic Complexity of this method "ILP" is 48 which is greater than 10 authorized.(ÑîˆÔşÿÿÿÿ
+esquid:S3008 "ORename this field "SSN2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é’¡
+„"squid:ClassVariableVisibilityCheck"QMake State a static final constant or non-public and provide accessors if needed.(¿Î‚Ïùÿÿÿÿ
+hsquid:CommentedOutCodeLineÄ"<This block of commented-out lines of code should be removed.(æÂ¯ùÿÿÿÿ
+=squid:S1166­"%Either log or rethrow this exception.(”ı¾
+usquid:S3008$"YRename this field "ESign_Password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥†¸‹øÿÿÿÿ
+Fsquid:S1444!"*Make this "public static SSN3" field final(®ÓÀŠúÿÿÿÿ
+Bsquid:S00108î")Either remove or fill this block of code.(”ı¾
+Bsquid:S1166ú"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+bsquid:S1192"KDefine a constant instead of duplicating this literal "finishLoan" 6 times.(´Ö°
+@squid:S1444 "*Make this "public static SSN2" field final(é’¡
+rsquid:S30085"VRename this field "ProductType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ÁÉóüÿÿÿÿ
+=squid:S1166Š"%Either log or rethrow this exception.(”ı¾
+š squid:MethodCyclomaticComplexityò"hThe Cyclomatic Complexity of this method "ILP_ACH_Collateral" is 17 which is greater than 10 authorized.(æ¿øÿÿÿÿ
+j
+squid:S134õ"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+=squid:S1166Š"%Either log or rethrow this exception.(”ı¾
+osquid:S3776¾"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(œ¶ë–øÿÿÿÿ
+Bsquid:S1166î	"%Either log or rethrow this exception.(šıš´ıÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheckL"PMake rnum a static final constant or non-public and provide accessors if needed.(ú‚Ç©øÿÿÿÿ
+=squid:S1166â"%Either log or rethrow this exception.(”ı¾
+"squid:ClassVariableVisibilityCheckO"QMake count a static final constant or non-public and provide accessors if needed.(ëª™Š
+lsquid:S1192š"ODefine a constant instead of duplicating this literal "collateralType" 6 times.(Ê­ıŞùÿÿÿÿ
+csquid:CommentedOutCodeLineè"<This block of commented-out lines of code should be removed.(¦ÀŠ
+Fsquid:S14448"/Make this "public static ProductID" field final(€ÉèÎ
+Msquid:S1444K"1Make this "public static TitleNumber" field final(–Š®Œûÿÿÿÿ
+Qsquid:S2387#"5"ESign_CheckNbr" is the name of a field in "QCStore".(æ°­¹ıÿÿÿÿ
+rsquid:S1192°"ZDefine a constant instead of duplicating this literal "Disb Amt is enterted as " 10 times.(ç¹µ¯
+Fsquid:S1444B"/Make this "public static PhoneNbr2" field final(¦©Ô…
+fsquid:S1132˜	"IMove the "SMS" string literal on the left side of this string comparison.(í×£øÿÿÿÿ
+ysquid:S1192¼"\Define a constant instead of duplicating this literal "Clicked on add card button " 4 times.(ÁúØ‚ÿÿÿÿÿ
+"squid:ClassVariableVisibilityCheck+"ZMake ESign_DisbType a static final constant or non-public and provide accessors if needed.(‡Àôúÿÿÿÿ
+vsquid:S3008F"ZRename this field "LicensePlateExp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¼ÙÓûÿÿÿÿ
+gsquid:CommentedOutCodeLinex"<This block of commented-out lines of code should be removed.(ğ€¸£ùÿÿÿÿ
+fsquid:S1132È"IMove the "SMS" string literal on the left side of this string comparison.( üÜ†úÿÿÿÿ
+=squid:S1166"%Either log or rethrow this exception.(”ı¾
+csquid:S1132µ"KMove the "Check" string literal on the left side of this string comparison.(á»Ğµ
+Vsquid:S1444:":Make this "public static InsuranceExpiryDate0" field final(¬Öš“üÿÿÿÿ
+gsquid:S1132„	"JMove the "Call" string literal on the left side of this string comparison.(ãòªÿÿÿÿÿ
+j
+squid:S134æ"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(äŞÆÿÿÿÿÿ
+Bsquid:S00108ı")Either remove or fill this block of code.(¬Ù¨Í
+Qsquid:S1444=":Make this "public static InsuranceExpiryDate1" field final(²„øó
+Msquid:S14445"1Make this "public static ProductType" field final(¤ÁÉóüÿÿÿÿ
+csquid:CommentedOutCodeLineÂ"<This block of commented-out lines of code should be removed.(ÍÏ˜Æ
+ssquid:S00117_"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÔ€ñşÿÿÿÿ
+Esquid:S1444V")Make this "public static cvv" field final(Ò´À”øÿÿÿÿ
+hsquid:CommentedOutCodeLineŒ"<This block of commented-out lines of code should be removed.(ÉŠ›¡øÿÿÿÿ
+csquid:S1192ş"KDefine a constant instead of duplicating this literal "checkCount" 5 times.(Ş¡”
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(…ÉÜ
+vsquid:S3008="_Rename this field "InsuranceExpiryDate1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²„øó
+Bsquid:S00108­")Either remove or fill this block of code.(”ı¾
+Msquid:S1444@"6Make this "public static InsuranceCompany" field final(ğ÷‘ˆ
+gsquid:S1132"JMove the "Call" string literal on the left side of this string comparison.(ãòªÿÿÿÿÿ
+{squid:S3008:"_Rename this field "InsuranceExpiryDate0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬Öš“üÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck8"UMake ProductID a static final constant or non-public and provide accessors if needed.(€ÉèÎ
+osquid:CommentedOutCodeLineï"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8‰¥êÕ¹.
+j
+squid:S134Â"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ãòªÿÿÿÿÿ
+msquid:S1192¹"UDefine a constant instead of duplicating this literal "Card holder name is " 4 times.(ŸóÆÿ
+Bsquid:S00108Æ	")Either remove or fill this block of code.(”ı¾
+msquid:S1192±"UDefine a constant instead of duplicating this literal "Enterd Expiry month " 4 times.(ú¥ë
+j
+squid:S134À"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(í×£øÿÿÿÿ
+gsquid:S1132¢"JMove the "Call" string literal on the left side of this string comparison.(ãòªÿÿÿÿÿ
+Isquid:S1444%"2Make this "public static ESign_Checks" field final(„ëú¯
+=squid:S1166Î"%Either log or rethrow this exception.(¬Ù¨Í
+osquid:S00117Ş"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëúË€
+zsquid:S1192"]Define a constant instead of duplicating this literal "ESign_Checks is selected as " 5 times.(±İ·’üÿÿÿÿ
+asquid:S1132Ï"IMove the "Yes" string literal on the left side of this string comparison.(ËÆêÎ
+gsquid:S1132»"JMove the "Mail" string literal on the left side of this string comparison.(ÑÓõ«ûÿÿÿÿ
+Š"squid:ClassVariableVisibilityCheckK"WMake TitleNumber a static final constant or non-public and provide accessors if needed.(–Š®Œûÿÿÿÿ
+osquid:S00117Ä"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëúË€
+"squid:ClassVariableVisibilityCheckW"ZMake CardHolderName a static final constant or non-public and provide accessors if needed.(…‚øûÿÿÿÿ
+gsquid:S1132ú"JMove the "Cash" string literal on the left side of this string comparison.(º‡—¿ùÿÿÿÿ
+msquid:S1192ú"PDefine a constant instead of duplicating this literal "Alert handled " 10 times.(­ÊŠÿÿÿÿÿ
+asquid:S1132´
+"IMove the "Yes" string literal on the left side of this string comparison.(ËÆêÎ
+gsquid:S1132Ê"JMove the "Call" string literal on the left side of this string comparison.(ãòªÿÿÿÿÿ
+gsquid:S1132Ù"JMove the "Call" string literal on the left side of this string comparison.(ãòªÿÿÿÿÿ
+usquid:S3008W"YRename this field "CardHolderName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…‚øûÿÿÿÿ
+j
+squid:S134¶"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ãòªÿÿÿÿÿ
+‡"squid:ClassVariableVisibilityCheckR"TMake cardType a static final constant or non-public and provide accessors if needed.(Í·È¿ûÿÿÿÿ
+gsquid:S1132	"JMove the "Mail" string literal on the left side of this string comparison.(ÑÓõ«ûÿÿÿÿ
+wsquid:S1192Â"ZDefine a constant instead of duplicating this literal "//*[@id='preferenceSms']" 10 times.(Ê¸ÍÑúÿÿÿÿ
+Isquid:S1172_"-Remove this unused method parameter "AppURL".(ºÔ€ñşÿÿÿÿ
+psquid:S1192³"SDefine a constant instead of duplicating this literal "//*[@id='expyear']" 4 times.(¥éé·ıÿÿÿÿ
+=squid:S1166Ş
+"%Either log or rethrow this exception.(¬Ù¨Í
+osquid:S00117à"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëúË€
+hsquid:CommentedOutCodeLineæ	"<This block of commented-out lines of code should be removed.(ÈÔ…Ûûÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheckS"VMake cardNumber a static final constant or non-public and provide accessors if needed.(›Æ‚½ûÿÿÿÿ
+"squid:ClassVariableVisibilityCheckE"]Make InsuranceCoverage a static final constant or non-public and provide accessors if needed.(¹·¢¿úÿÿÿÿ
+"squid:ClassVariableVisibilityCheck("ZMake AllowPromotion a static final constant or non-public and provide accessors if needed.(¨è©ùÿÿÿÿ
+lsquid:S00100ò"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ¿øÿÿÿÿ
+usquid:S3008+"YRename this field "ESign_DisbType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Àôúÿÿÿÿ
+=squid:S1166µ"%Either log or rethrow this exception.(¬Ù¨Í
+V
+squid:S106n";Replace this usage of System.out or System.err by a logger.(´«¡üÿÿÿÿ
+jsquid:S1192…"RDefine a constant instead of duplicating this literal "Enterd amount is " 6 times.(‚ó‰
+zsquid:S1192Ö"]Define a constant instead of duplicating this literal "csr_new_loan_promotions_btn" 10 times.(ÔÉÚòşÿÿÿÿ
+osquid:S3776ò"RRefactor this method to reduce its Cognitive Complexity from 57 to the 15 allowed.(æ¿øÿÿÿÿ
+=squid:S1166ı"%Either log or rethrow this exception.(¬Ù¨Í
+nsquid:S3008%"WRename this field "ESign_Checks" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ëú¯
+bsquid:CommentedOutCodeLinez"<This block of commented-out lines of code should be removed.(”ı‰­
+…"squid:ClassVariableVisibilityCheck2"WMake VehicleType a static final constant or non-public and provide accessors if needed.(Ûıõô
+Bsquid:S00108–")Either remove or fill this block of code.(”ı¾
+e
+squid:S134ò
+"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Üì¸ü
+Œ"squid:ClassVariableVisibilityCheckH"YMake ExteriorColor a static final constant or non-public and provide accessors if needed.(ªÄÇÒşÿÿÿÿ
+Asquid:S1444"*Make this "public static SSN1" field final(úØÍ¿
+Rsquid:S2387-";"ESign_CollateralType" is the name of a field in "QCStore".(Äø¡ 
+ˆ"squid:ClassVariableVisibilityCheckC"UMake PhoneNbr1 a static final constant or non-public and provide accessors if needed.(éõçßúÿÿÿÿ
+csquid:CommentedOutCodeLineæ"<This block of commented-out lines of code should be removed.(–Åù‰
+asquid:S1132³"IMove the "Yes" string literal on the left side of this string comparison.(ƒ¶Ñ¨
+asquid:S1132¼"IMove the "Yes" string literal on the left side of this string comparison.(ËÆêÎ
+Psquid:S1444W"4Make this "public static CardHolderName" field final(…‚øûÿÿÿÿ
+fsquid:S1132Ì
+"IMove the "SMS" string literal on the left side of this string comparison.(í×£øÿÿÿÿ
+=squid:S1166Æ	"%Either log or rethrow this exception.(”ı¾
+~"squid:ClassVariableVisibilityCheck"PMake SSN1 a static final constant or non-public and provide accessors if needed.(úØÍ¿
+“"squid:ClassVariableVisibilityCheck:"`Make InsuranceExpiryDate0 a static final constant or non-public and provide accessors if needed.(¬Öš“üÿÿÿÿ
+Ksquid:S23876"/"Password" is the name of a field in "QCStore".(œúÌÿÿÿÿÿ
+7squid:S2386Ş"Make member "rows" "protected".(×æÏİ
+usquid:S3008\"YRename this field "CC_Issuer_Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ¬ÿÜûÿÿÿÿ
+nsquid:S1192¬"QDefine a constant instead of duplicating this literal "Card number is :" 4 times.(Îã¶ìûÿÿÿÿ
+hsquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(†ñà÷ùÿÿÿÿ
+j
+squid:S134»"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ÑÓõ«ûÿÿÿÿ
+vsquid:S1192ÿ"^Define a constant instead of duplicating this literal "Number of checks selected as " 6 times.(ÆÜ
+lsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑîˆÔşÿÿÿÿ
+ˆ"squid:ClassVariableVisibilityCheck&"UMake CouponNbr a static final constant or non-public and provide accessors if needed.(µôÒ¢ùÿÿÿÿ
+Psquid:S1444$"4Make this "public static ESign_Password" field final(¥†¸‹øÿÿÿÿ
+ssquid:S3008N"WRename this field "product_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Â®øÿÿÿÿ
+"squid:ClassVariableVisibilityCheck-"`Make ESign_CollateralType a static final constant or non-public and provide accessors if needed.(Äø¡ 
+"squid:ClassVariableVisibilityCheckJ"_Make InsuranceExpiryDate a static final constant or non-public and provide accessors if needed.(ë–´è
+tsquid:S3008,"XRename this field "ESign_LoanAmt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Ûøÿÿÿÿ
+^squid:S1192–"FDefine a constant instead of duplicating this literal "Check" 7 times.(ÑÔ®
+msquid:S30082"VRename this field "VehicleType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûıõô
+Tsquid:S1197:"8Move the array designator from the variable to the type.(¬Öš“üÿÿÿÿ
+Nsquid:S1444/"2Make this "public static stateProduct" field final(²™Š—ÿÿÿÿÿ
+Vsquid:UselessImportCheck
+"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ
+asquid:S1132Ü"IMove the "Yes" string literal on the left side of this string comparison.(ƒ¶Ñ¨
+gsquid:S1132¸
+"JMove the "Call" string literal on the left side of this string comparison.(ãòªÿÿÿÿÿ
+"squid:ClassVariableVisibilityCheck$"ZMake ESign_Password a static final constant or non-public and provide accessors if needed.(¥†¸‹øÿÿÿÿ
+@squid:S1148ü"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+csquid:CommentedOutCodeLineà	"<This block of commented-out lines of code should be removed.(…ÉÜ
+e
+squid:S134Ê"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Üì¸ü
+j
+squid:S134«"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+Bsquid:S1166Ú"%Either log or rethrow this exception.(šıš´ıÿÿÿÿ
+Bsquid:S00108•")Either remove or fill this block of code.(”ı¾
+gsquid:S1132Ó"JMove the "Call" string literal on the left side of this string comparison.(ãòªÿÿÿÿÿ
+csquid:S1132–"KMove the "Check" string literal on the left side of this string comparison.(ÑÔ®
+rsquid:S3008@"[Rename this field "InsuranceCompany" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ÷‘ˆ
+psquid:S3008&"TRename this field "CouponNbr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µôÒ¢ùÿÿÿÿ
+csquid:S1192„"KDefine a constant instead of duplicating this literal "vehicleKey" 5 times.(ÀÈñ·
+Asquid:S1444P"*Make this "public static rows" field final(óŠÖ
+Q
+squid:S106";Replace this usage of System.out or System.err by a logger.(ìÍ¢
+osquid:S00117Ô"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëúË€
+ssquid:S1192ë"[Define a constant instead of duplicating this literal "csr_new_loan_promo_ok_btn" 10 times.(áÈı
+csquid:S1132–"KMove the "Check" string literal on the left side of this string comparison.(ÑÔ®
+Bsquid:S00108’")Either remove or fill this block of code.(”ı¾
+ksquid:S30088"TRename this field "ProductID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ÉèÎ
+j
+squid:S134¬"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(í×£øÿÿÿÿ
+Bsquid:S00108")Either remove or fill this block of code.(”ı¾
+{squid:S3008*"dRename this field "ESign_CourtesyCallConsent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÄÀœ
+j
+squid:S134Ï"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ÑÓõ«ûÿÿÿÿ
+Asquid:S1444M"*Make this "public static cnum" field final(Å­Á–
+"squid:ClassVariableVisibilityCheck<"`Make InsuranceExpiryDate2 a static final constant or non-public and provide accessors if needed.(£‡‰”
+Isquid:S14449"2Make this "public static last4cheknum" field final(İÂÊ
+=squid:S1166•"%Either log or rethrow this exception.(”ı¾
+gsquid:S1132ü	"JMove the "Cash" string literal on the left side of this string comparison.(º‡—¿ùÿÿÿÿ
+jsquid:S1192©"RDefine a constant instead of duplicating this literal "Select card as : " 4 times.(Ô—éÀ
+Ksquid:S1444C"/Make this "public static PhoneNbr1" field final(éõçßúÿÿÿÿ
+Š"squid:ClassVariableVisibilityCheck5"WMake ProductType a static final constant or non-public and provide accessors if needed.(¤ÁÉóüÿÿÿÿ
+Qsquid:S1444-":Make this "public static ESign_CollateralType" field final(Äø¡ 
+Nsquid:S1444>"2Make this "public static PolicyNumber" field final(€–×ôøÿÿÿÿ
+Jsquid:S1444R".Make this "public static cardType" field final(Í·È¿ûÿÿÿÿ
+asquid:S1132€	"IMove the "Yes" string literal on the left side of this string comparison.(ËÆêÎ
+ssquid:S3008Z"WRename this field "VehicleGrade" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ÁÄ÷üÿÿÿÿ
+osquid:S00117÷"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëúË€
+vsquid:S3008-"_Rename this field "ESign_CollateralType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äø¡ 
+usquid:S3008#"YRename this field "ESign_CheckNbr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ°­¹ıÿÿÿÿ
+psquid:S3776"SRefactor this method to reduce its Cognitive Complexity from 195 to the 15 allowed.(ÑîˆÔşÿÿÿÿ
+Csquid:S14441",Make this "public static NewVIN" field final(ãäÜ
+j
+squid:S134ä"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(äŞÆÿÿÿÿÿ
+€"squid:ClassVariableVisibilityCheck1"RMake NewVIN a static final constant or non-public and provide accessors if needed.(ãäÜ
+asquid:S1132À"IMove the "Yes" string literal on the left side of this string comparison.(ËÆêÎ
+gsquid:S1132Â"JMove the "Call" string literal on the left side of this string comparison.(ãòªÿÿÿÿÿ
